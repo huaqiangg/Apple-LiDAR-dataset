@@ -21,7 +21,7 @@ This dataset contains pavement crack point clouds collected using Apple LiDAR on
 ## 📍 Crack Collection Locations
 The image below shows the collection locations of different point cloud samples:
 
-![Crack Collection Locations](location_map.jpg)
+![Crack Collection Locations](crack.png)
 
 ## Dataset Download
 The full dataset (~40GB) is available for download from an external source due to its large size.
