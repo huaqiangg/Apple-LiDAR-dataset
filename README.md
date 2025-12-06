@@ -22,7 +22,7 @@ The image below shows the collection locations of different point cloud samples:
 ![Crack Collection Locations](crack.png)
 
 ## Dataset Download
-If you need to download this dataset, you can click on the tag named "point cloud data"; we have put all the point cloud data in there.
+The dataset is available for download at the following link.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17838389.svg)](https://doi.org/10.5281/zenodo.17838389)
 | Crack ID | Crack Type | Density  |
 |----------|------------|----------|
@@ -62,7 +62,8 @@ We also acquired four sets of comparative point clouds for the same crack using 
 handheld (at heights of 30 cm, 50 cm, and 70 cm);
 gimbal-mounted (at heights of 30 cm, 50 cm, and 70 cm);
 and Terrestrial Laser Scanning (TLS).
-These datasets were stored under a tag named 'control group' to evaluate the optimal acquisition method.
+The dataset is available for download at the following link.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17839334.svg)](https://doi.org/10.5281/zenodo.17839334)
 
 | Crack ID | Crack Type | Density  |
 |----------|------------|----------|
