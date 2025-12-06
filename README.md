@@ -19,7 +19,6 @@ This dataset consists of crack point clouds collected at the Zhuhai campus of Su
 ## 📍 Crack Collection Locations
 The image below shows the collection locations of different point cloud samples:
 
-![Crack Collection Locations](crack.png)
 
 ## Dataset Download
 The dataset is available for download at the following link.
