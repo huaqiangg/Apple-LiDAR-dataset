@@ -23,7 +23,7 @@ The image below shows the collection locations of different point cloud samples:
 
 ## Dataset Download
 If you need to download this dataset, you can click on the tag named "point cloud data"; we have put all the point cloud data in there.
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17838389.svg)](https://doi.org/10.5281/zenodo.17838389)
 | Crack ID | Crack Type | Density  |
 |----------|------------|----------|
 | sysu001  | Longitudinal | ultra |
